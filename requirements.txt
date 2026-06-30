@@ -1,0 +1,10 @@
+pip install numpy==1.19.2
+pip install opencv-python==4.1.1.26
+pip install opencv-contrib-python==4.3.0.36
+pip install playsound==1.2.2
+pip install gTTS==2.2.2
+pip installgTTS-token==1.1.4
+pip install keras==2.3.1
+pip install tensorflow==1.14.0
+pip install h5py==2.10.0
+pip install protobuf==3.16.0
