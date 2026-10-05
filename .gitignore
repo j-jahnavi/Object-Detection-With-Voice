@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary audio files
+play/*.mp3
+!play/.gitkeep
+
+# Snapshots
+snapshots/*.jpg
+!snapshots/.gitkeep
+
+# IDE configs
+.vscode/
+.idea/
